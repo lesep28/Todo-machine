@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Todo-machine.git/static/css/main.eec80818.css",
+    "main.js": "/Todo-machine.git/static/js/main.4e066719.js",
+    "index.html": "/Todo-machine.git/index.html",
+    "main.eec80818.css.map": "/Todo-machine.git/static/css/main.eec80818.css.map",
+    "main.4e066719.js.map": "/Todo-machine.git/static/js/main.4e066719.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eec80818.css",
+    "static/js/main.4e066719.js"
+  ]
+}
